@@ -83,5 +83,4 @@
 
 ![](pictures/тест3.png)
 
-
 ## make_test.py
