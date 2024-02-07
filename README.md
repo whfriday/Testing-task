@@ -8,7 +8,6 @@
 **Для выполнения задания тестирования были написаны тесты:**
 * request_test.py
 * cloud_test.py
-* app_test.py
 * data_test.py
 * make_test.py
 
@@ -61,9 +60,6 @@
 И как следствие - оба непройденных теста
 
 ![](pictures/тест2_5.png)
-
-
-## app_test.py
 
 
 ## data_test.py
