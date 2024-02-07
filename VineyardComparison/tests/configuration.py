@@ -1,0 +1,1 @@
+SERVICE_URL = 'https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcanadianvineyards.streamlit.app%2F'
